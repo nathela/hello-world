@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hello World Program In C Programming Language
+Hello World Program in THe C Programming Language
